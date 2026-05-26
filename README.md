@@ -1,4 +1,4 @@
 # Calculadora
 Calculadora inteligente
 
-Repositório criado por meio de uma aula do Curso em Vídeo
+*Em processo de aprendizagem de programação
